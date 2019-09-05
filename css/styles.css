@@ -1,0 +1,29 @@
+/* Общие настройки html */
+
+body {
+   margin: 0;
+   padding: 0;
+   background-color: black;
+   min-width: 320px;
+   max-width: 480px;
+   margin-left: -18px;
+  }
+  
+  html{
+    box-sizing: border-box;
+  }
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+  
+  img {
+   display: block;
+    max-width: 100%;
+    height: auto;   
+  }
+  .container {
+    background-color: white;
+    position: relative;
+  }
