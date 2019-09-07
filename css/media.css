@@ -1,17 +1,14 @@
 @media screen and (min-width: 480px) {
     body {
      
-      min-width: 480px; /* 480 */
-      max-width: 960px; /* 462px */
-  
+      min-width: 480px;
+      max-width: 960px; 
     }
   
   
     .bg-img {
       width: 100%;
-      height: 700px;
-    
-      
+      height: 700px; 
     }
   
     .nav-wrapper {
@@ -54,31 +51,31 @@
     }
   
     .title {
-      font-size: 51.97px;
+      font-size: 52px;
       margin-top: 223px;
     }
   
     .subtitle {
-      font-size: 23.99px;
+      font-size: 24px;
     }
   
     .btn-find {
       width: 225px;
       background-color: #ff4e50;
-      font-size: 13.99px;
+      font-size: 14px;
       border-radius: 20px;
       margin-top: 36px;
     }
   
     .section-wrapper {
-      min-width: 462px; /* 462 */
+      min-width: 462px; 
       max-width: 490px;
       margin-left: auto;
       margin-right: auto;
     }
   
     .box-partners {
-      min-width: 442px; /* 462 */
+      min-width: 442px; 
       max-width: 492px; 
       margin: 0 auto;
     }
@@ -93,8 +90,8 @@
   @media screen and (min-width: 961px) {
     body {
   
-      min-width: 961px; /* 943 */
-      max-width: 1440px; /* 961 */
+      min-width: 961px; 
+      max-width: 1440px; 
     }
   
   
@@ -120,17 +117,17 @@
     }
   
     .title {
-      font-size: 51.97px;
+      font-size: 52px;
       margin-top: 223px;
     }
   
     .subtitle {
-      font-size: 23.99px;
+      font-size: 24px;
     }
     .btn-find {
       width: 225px;
       background-color: #ff4e50;
-      font-size: 13.99px;
+      font-size: 14px;
       border-radius: 20px;
       margin-top: 36px;
     }
