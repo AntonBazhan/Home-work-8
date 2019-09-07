@@ -60,7 +60,6 @@ body {
   height: auto;
 }
 
-
 /*  Контент в хэддере */
 
 .aside-wrapper {
@@ -307,7 +306,6 @@ body {
   color: white;
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
-  
 }
 
 .btn-other::first-letter {

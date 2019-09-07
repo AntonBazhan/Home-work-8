@@ -18,11 +18,11 @@
       margin-left: auto;
       margin-right: auto;
       max-width: 660px;
-      min-width: 480px; /* 470 */
+      min-width: 480px; 
     }
   
     .logo-wrapper {
-      width: 490px; /* 490 */
+      width: 490px; 
     }
   
     .img-logo {
@@ -86,7 +86,6 @@
     }
   }
   
-  /* Стилизация под расширение 1440px */
   @media screen and (min-width: 961px) {
     body {
   
@@ -94,11 +93,11 @@
       max-width: 1440px; 
     }
   
-  
     .nav-wrapper {
       max-width: 940px;
       min-width: 840px;
     }
+
     .logo-wrapper {
       width: 760px;
     }
@@ -124,6 +123,7 @@
     .subtitle {
       font-size: 24px;
     }
+
     .btn-find {
       width: 225px;
       background-color: #ff4e50;
@@ -131,12 +131,14 @@
       border-radius: 20px;
       margin-top: 36px;
     }
+
     .section-wrapper {
       min-width: 940px;
       max-width: 940px; 
       margin-left: auto;
       margin-right: auto;
     }
+
     .box-partners {
    
       min-width: 940px;
@@ -144,6 +146,7 @@
       margin-left: auto;
       margin-right: auto;
     }
+    
     .fotter-wrapper {
       padding-top: 38px;
       padding-bottom: 72px;
