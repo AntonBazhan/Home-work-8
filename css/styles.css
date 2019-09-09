@@ -25,7 +25,7 @@ body {
   .container {
     background-color: white;
     position: relative;
-  
+  margin: 0 auto;
   }
 
   /* Фоновое изображение */
