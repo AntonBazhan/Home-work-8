@@ -88,12 +88,13 @@
   
   @media screen and (min-width: 961px) {
     body {
-  
+     
       min-width: 961px; 
       max-width: 1440px; 
     }
   
     .nav-wrapper {
+      
       max-width: 940px;
       min-width: 840px;
     }

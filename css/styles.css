@@ -4,22 +4,19 @@ body {
    margin: 0 auto;
    padding: 0;
    background-color: black;
+   overflow-x: hidden;
    min-width: 320px;
    max-width: 480px;
-  
-  }
-  
+     
+}
+
   html{
     box-sizing: border-box;
   }
-  *,
-  *::before,
-  *::after {
-    box-sizing: inherit;
-  }
+  
   
   img {
-   display: block;
+   /*display: block;*/
     max-width: 100%;
     height: auto;   
   }
@@ -29,6 +26,7 @@ body {
   .container {
     background-color: white;
     position: relative;
+    
   }
 
   /* Фоновое изображение */
@@ -160,12 +158,12 @@ body {
   margin-top: 100px;
   width: 180px;
   height: 20px; 
-  display: inline-block;
+ /* display: inline-block;*/
 }
 
 /* Основной блок */
 .section-title {
-  font-size: 21.98px;
+  font-size: 22px;
   color: #333333;
   margin-top: 74px;
   text-align: center;
