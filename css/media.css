@@ -1,11 +1,5 @@
 @media screen and (min-width: 480px) {
-    body {
-     
-      min-width: 480px;
-      max-width: 960px; 
-    }
-  
-  
+    
     .bg-img {
       width: 100%;
       height: 700px; 
@@ -87,12 +81,8 @@
   }
   
   @media screen and (min-width: 961px) {
-    body {
-     
-      min-width: 961px; 
-      max-width: 1440px; 
-    }
-  
+    
+
     .nav-wrapper {
       
       max-width: 940px;

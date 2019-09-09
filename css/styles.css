@@ -5,8 +5,7 @@ body {
    padding: 0;
    background-color: black;
    overflow-x: hidden;
-   min-width: 320px;
-   max-width: 480px;
+  
      
 }
 
@@ -26,7 +25,9 @@ body {
   .container {
     background-color: white;
     position: relative;
-    
+    margin: auto;
+    max-width: 1440px;
+    min-width: 322px;
   }
 
   /* Фоновое изображение */
@@ -95,7 +96,7 @@ body {
 }
 
 .btn-find {
-  width: 280px;
+  /*width: 280px;*/
   height: 40px;
   background-color: #ff4e50;
   font-size: 14px;
