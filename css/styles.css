@@ -12,24 +12,24 @@ body {
   html{
     box-sizing: border-box;
   }
-  
   /*
+  
   img {
    display: block;
     max-width: 100%;
-    height: auto;   
+    height: auto;  
   }
 */
   /*Контейнер*/
 
   .container-fluid{
-    height: 700px;
     
+    width: 100%;
     min-height: 542px;
     background-image:  url("../img/mobile.png");
     background-repeat: no-repeat;
     background-size: cover;
-   /*display: inline-block;*/
+  /* display: inline-block;*/
     
   }
   
@@ -37,7 +37,7 @@ body {
     background-color: white;
     position: relative;
     margin: auto;
-    width: 1440px;
+    max-width: 1440px;
     min-height: 542px;
   }
 
