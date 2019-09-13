@@ -6,12 +6,16 @@
   }
   .container {
     max-width: 480px;
-    margin: auto;
+    margin: 0 auto;
     min-height: 542px;
     
   }
- 
- 
+
+  .headder-wrapper {
+  position: absolute;
+  
+  }
+
   .bg-img {
     width: 100%;
     height: 700px;

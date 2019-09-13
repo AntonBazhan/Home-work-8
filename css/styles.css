@@ -16,20 +16,20 @@ body {
   .container-fluid{
    width: 100%;
    min-height: 542px;
-   height: 700px;
+  /*height: 700px;*/
    background-image: url("../img/mobile.png");
    background-repeat: no-repeat;
-   /*background-size: cover;*/
-   display: inline-block;
-  background-color: white;
+   background-size: cover;
+  display: inline-block;
+  background-color: black;
   
   }
 
 /*Контейнер*/
   .container {
    width: 100%;
-   margin: 0 auto;
-  
+   margin:  auto;
+   
  
   }
 
@@ -37,7 +37,7 @@ body {
 /* Задаем цвет фона обертки*/
 .site-wrapper {
   background-color: white;
-  position: relative;
+ position: relative;
 }
 
 /* Задаем фоновое изображение */
@@ -51,7 +51,6 @@ body {
 /* Выносим вперед и центрируем блок хэддер */
 .headder-wrapper {
   width: 100%;
-  position: absolute;
   top: 0;
   right: 0;
   left: 0;
